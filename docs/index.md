@@ -17,23 +17,23 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
 
 <div class="portfolio-grid">
 
-<a href="environment/" class="portfolio-card">
-<h3>Environment</h3>
+<a href="tasks/" class="portfolio-card">
+<h3>Tasks</h3>
 <p>Course learning activities and coding exercises.</p>
 </a>
 
-<a href="transportation/" class="portfolio-card">
-<h3>Transportation</h3>
+<a href="exercises/" class="portfolio-card">
+<h3>Exercises</h3>
 <p>Hands-on GIS and web mapping exercises.</p>
 </a>
 
-<a href="energy/" class="portfolio-card">
-<h3>Energy</h3>
+<a href="assignments/" class="portfolio-card">
+<h3>Assignments</h3>
 <p>Spatial analysis and mapping assignments.</p>
 </a>
 
-<a href="economy/" class="portfolio-card">
-<h3>Economy</h3>
+<a href="final-project/" class="portfolio-card">
+<h3>Final Project</h3>
 <p>Comprehensive web mapping project.</p>
 </a>
 
